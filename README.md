@@ -1,6 +1,24 @@
-In-game visuals
+**Proje Hakkında**
 
-Anxiety Bar and gameplay
+A Normal Day, oyuncuya sosyal anksiyeteyi deneyimletmeyi amaçlayan 3D bir farkındalık oyunudur. Oyuncu günlük hayatta karşılaşabileceği sosyal durumlarla etkileşime girerken anksiyete seviyesi değişir ve bu durum hem oynanışa hem de görsel efektlere yansır.
+
+Proje, psikolojik bir durumu oyun mekanikleriyle anlatmayı hedefleyen bir üniversite çalışması olarak geliştirilmiştir.
+
+**Kullanılan Teknolojiler**
+Unity
+C#
+Unity Input System
+TextMesh Pro
+Unity Post Processing
+Visual Studio
+
+**Amaç**
+
+Bu projenin amacı, sosyal anksiyete yaşayan bireylerin karşılaşabileceği durumları oyun ortamına taşıyarak oyuncuda farkındalık oluşturmaktır. Aynı zamanda Unity ile oyun geliştirme, oyun mekanikleri tasarlama ve oyuncunun davranışlarına göre dinamik sistemler geliştirme konularında deneyim kazanmayı hedeflemektedir.
+
+***In-game visuals***
+
+***Anxiety Bar and gameplay***
 
 <img width="701" height="390" alt="Image" src="https://github.com/user-attachments/assets/d3eaab02-20d5-4a8d-9e9f-579b8b4266d1" />
 <img width="701" height="378" alt="Image" src="https://github.com/user-attachments/assets/ff215f79-5090-4291-b010-c5f4e7c5b5e3" />

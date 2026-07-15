@@ -6,17 +6,17 @@ Proje, psikolojik bir durumu oyun mekanikleriyle anlatmayı hedefleyen bir üniv
 
 **Kullanılan Teknolojiler**
 
-Unity
+-Unity
 
-C#
+-C#
 
-Unity Input System
+-Unity Input System
 
-TextMesh Pro
+-TextMesh Pro
 
-Unity Post Processing
+-Unity Post Processing
 
-Visual Studio
+-Visual Studio
 
 **Amaç**
 

@@ -6,15 +6,25 @@ Proje, psikolojik bir durumu oyun mekanikleriyle anlatmayı hedefleyen bir üniv
 
 **Kullanılan Teknolojiler**
 Unity
+
 C#
+
 Unity Input System
+
 TextMesh Pro
+
 Unity Post Processing
+
 Visual Studio
 
 **Amaç**
-
 Bu projenin amacı, sosyal anksiyete yaşayan bireylerin karşılaşabileceği durumları oyun ortamına taşıyarak oyuncuda farkındalık oluşturmaktır. Aynı zamanda Unity ile oyun geliştirme, oyun mekanikleri tasarlama ve oyuncunun davranışlarına göre dinamik sistemler geliştirme konularında deneyim kazanmayı hedeflemektedir. 
+
+**Oynanış**
+Günlük hayatta geçen bir karakter kontrol edilir.
+NPC'lerle ve çevredeki nesnelerle etkileşime girilebilir.
+Sosyal etkileşimler anksiyete seviyesini artırabilir veya azaltabilir.
+Anksiyete seviyesi arttıkça görsel efektler ve oyun atmosferi değişerek oyuncuya karakterin yaşadığı hissi yansıtır.
 
 ***In-game visuals***
 

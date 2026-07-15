@@ -5,6 +5,7 @@ A Normal Day, oyuncuya sosyal anksiyeteyi deneyimletmeyi amaçlayan 3D bir fark�
 Proje, psikolojik bir durumu oyun mekanikleriyle anlatmayı hedefleyen bir üniversite çalışması olarak geliştirilmiştir.
 
 **Kullanılan Teknolojiler**
+
 Unity
 
 C#
